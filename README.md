@@ -1,5 +1,6 @@
 # EX 10 : ANIMATION USING FLASH
-
+# NAME: BHUVANESHWARI S
+# REG NO: 212222220008
 
 ## AIM
   
@@ -65,3 +66,7 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/c41a1e15-d178-4f49-b244-2ad3fbe182de)
+
+# RESULT:
+Thus the motion tweening, shape tweening, guide layer and masking using Flash as been done and the output is verified.
