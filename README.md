@@ -1,8 +1,9 @@
 # EX 10 : ANIMATION USING FLASH
- NAME: BHUVANESHWARI S
- REG NO: 212222220008
-
-## AIM
+```
+NAME: BHUVANESHWARI S
+REG NO: 212222220008
+```
+## AIM:
   
   To create a motion tweening, shape tweening, guide layer and masking using Flash.
 
